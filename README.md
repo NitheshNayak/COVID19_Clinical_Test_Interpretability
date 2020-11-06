@@ -7,11 +7,11 @@ Presenting some finding, based on the results of laboratory tests commonly done 
 
 - The case study gives a complete data analytics approach using advanced techniques to cater for the given scenario.
 
-- This gives a helicopter view of how a data-driven decision making helps in solving the crisis at hand. If well-distributed data is provided to the author, the above-mentioned shortcoming can be reduced. ( Especially characteristics of COIVD-19 Positive patients)
+- This gives a helicopter view of how a data-driven decision making helps in solving the crisis at hand. If well-distributed data is provided to the author, some of the shortcoming can be reduced. ( Discussed in the Notebook)
 
-- As the main business concern was to control the outbreak of this pandemic, this approach enables all the front-line workers and helpers to spread out and do accurate rapid testing.
+- The main concern is to control the outbreak of this pandemic, this approach enables all the front-line workers to spread out and do accurate rapid testing.
 
-- Which also helps in increasing number of mobile test units, even though the number of health workers is less, the clinical test kit is available now in a mobile test kit version and with this analytical approach, it empowers the other responsible frontline workers to take the test and recognize the results accurately. 
+- It also caters in increasing number of mobile test units, even though the number of health workers is less, the clinical test kit is available now in a mobile test kit version and with this analytical approach, it empowers the other responsible frontline workers to take the test and recognize the results accurately. 
 
 - Not only that we have seen there are case were  False Negative comes, in those scenarios one can remotely consult the health workers. 
 
